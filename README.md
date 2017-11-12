@@ -1,1 +1,3 @@
 # Multithreaded_Server-Client_Mapper
+# This project is completed by Anson Jacob, Niyaz Murshed and Minita Dabhi as part of coursework ECE 650 - Tools and Methods of Software Engineering at University of Waterloo. This project has 3 major sections - multithreaded server code, client code and trip plannar API which finds the shortest distance between 2 locations. The locations should already be stored in the system when accessing them to find the distance. 
+# The server code has multitheaded feature to satisfy the requests coming from multiple client PCs. Mutex has been used to provide the protection againt being accessed and updated by multiple threads.
