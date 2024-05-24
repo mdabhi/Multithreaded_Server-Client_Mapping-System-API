@@ -12,7 +12,7 @@ roadmap.c contains the trip plannar API which updates the graphInfo.txt file and
 - Learning:
   1. Implement TCP/IP protocol, craeting sockets
   2. Server-client architecture
-  3. Craete API and call the API in software application
+  3. Create API and call the API in software application
   4. Write and execute test cases for embedded project using multiple terminals to understand client-server concept
   5. Create interactive menu for UI/UX 
   
