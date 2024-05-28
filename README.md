@@ -10,7 +10,7 @@ Makefile is used to run all the codes- multiserver.c, clients.c and roadmap.c an
 roadmap.c contains the trip plannar API which updates the graphInfo.txt file and reads the saved map locations from graphInfo.txt. roadmap.c uses roadmap.h headerfile which has all the function definitions and description.
 
 - Learning:
-  1. Implement TCP/IP protocol, craeting sockets
+  1. Implement TCP/IP protocol, creating sockets
   2. Server-client architecture
   3. Create API and call the API in software application
   4. Write and execute test cases for embedded project using multiple terminals to understand client-server concept
